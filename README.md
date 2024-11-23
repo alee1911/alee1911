@@ -1,1 +1,7 @@
-Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi escritorio local.
+- 👋 Hi, I’m @ALEXANDER PACO VARGAS
+- 👀 I am interested in programming
+- 🌱 I am currently learning Javascript
+- 💞️ I am looking to collaborate in the programming area
+- 📫 How to reach me, papi191195@gmail.com
+- 😄 Pronouns: Hi 
+- ⚡ Fun fact: football
